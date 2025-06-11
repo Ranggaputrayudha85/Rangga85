@@ -1,6 +1,6 @@
 Integrated Code Commit  =  752c607
 integrated Code Parents =  aa5cafc 
-integrated Dapps ekosistem Pi Network 
+integrated Dapps Ecosystem Pi Network 
 integrated Pi Blockchain Explorer 
 Integrated Github Repository 
 Value Pi Network Progress 
